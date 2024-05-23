@@ -9,6 +9,9 @@ pandas = "*"
 matplotlib = "*"
 scikit-learn = "*"
 openpyxl = "*"
+onnxmltools = "*"
+skl2onnx = "*"
+onnxconverter-common = "*"
 
 [dev-packages]
 ipykernel = "*"
